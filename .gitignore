@@ -132,3 +132,5 @@ CD220Labs/expressjs/.env
 
 # Ignore all node_modules folders within CD220Labs or any of its subdirectories
 CD220Labs/**/node_modules/
+
+CD220Labs/expressjs/.env
